@@ -1,0 +1,98 @@
+30-01-2021 15:28:13 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:18 - DraganddropPage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='Drag and Drop']
+30-01-2021 15:28:18 - DraganddropPage - DEBUG: Clicked on element.
+30-01-2021 15:28:18 - DraganddropPage - INFO: Open the page.
+30-01-2021 15:28:20 - DraganddropPage - DEBUG: Element found with locator: [xpath] //div[@id='column-a']
+30-01-2021 15:28:20 - DraganddropPage - DEBUG: Element found with locator: [xpath] //div[@id='column-b']
+30-01-2021 15:28:21 - DraganddropPage - DEBUG: Drag and drop successful.
+30-01-2021 15:28:21 - DraganddropPage - INFO: Drag A to B.
+30-01-2021 15:28:23 - setup - INFO: Close browser.
+30-01-2021 15:28:30 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:30 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:35 - DropdownPage - DEBUG: Element found with locator: [xpath] //a[contains(text(),'Dropdown')]
+30-01-2021 15:28:36 - DropdownPage - DEBUG: Clicked on element.
+30-01-2021 15:28:36 - DropdownPage - INFO: Open the page.
+30-01-2021 15:28:39 - DropdownPage - DEBUG: Element found with locator: [xpath] //select[@id='dropdown']
+30-01-2021 15:28:39 - DropdownPage - DEBUG: Dropdown found.
+30-01-2021 15:28:39 - DropdownPage - DEBUG: Dropdown value selected by visible text: Option 2
+30-01-2021 15:28:39 - DropdownPage - INFO: Select dropdown value: Option 2
+30-01-2021 15:28:42 - setup - INFO: Close browser.
+30-01-2021 15:28:42 - setup - INFO: Close browser.
+30-01-2021 15:28:49 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:49 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:49 - setup - INFO: Open Firefox browser.
+30-01-2021 15:28:53 - HomePage - INFO: Verify element present.
+30-01-2021 15:28:53 - HomePage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='A/B Testing']
+30-01-2021 15:28:53 - HomePage - DEBUG: Element is present.
+30-01-2021 15:28:55 - HomePage - INFO: Verify element displayed.
+30-01-2021 15:28:56 - HomePage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='Add/Remove Elements']
+30-01-2021 15:28:56 - HomePage - DEBUG: Element is displayed.
+30-01-2021 15:28:58 - setup - INFO: Close browser.
+30-01-2021 15:28:58 - setup - INFO: Close browser.
+30-01-2021 15:28:58 - setup - INFO: Close browser.
+30-01-2021 15:29:05 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:05 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:05 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:05 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:11 - HoversPage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='Hovers']
+30-01-2021 15:29:11 - HoversPage - DEBUG: Clicked on element.
+30-01-2021 15:29:11 - HoversPage - INFO: Open the page.
+30-01-2021 15:29:14 - HoversPage - DEBUG: Element found with locator: [xpath] //div[@class='example']//div[1]//img[1]
+30-01-2021 15:29:14 - HoversPage - DEBUG: Hovered over the parent element.
+30-01-2021 15:29:14 - HoversPage - DEBUG: Element found with locator: [xpath] //div[@class='example']//div[1]//div[1]//a[1]
+30-01-2021 15:29:15 - HoversPage - DEBUG: Clicked on child element.
+30-01-2021 15:29:15 - HoversPage - INFO: Open user profile.
+30-01-2021 15:29:18 - setup - INFO: Close browser.
+30-01-2021 15:29:18 - setup - INFO: Close browser.
+30-01-2021 15:29:18 - setup - INFO: Close browser.
+30-01-2021 15:29:18 - setup - INFO: Close browser.
+30-01-2021 15:29:25 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:25 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:25 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:25 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:25 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:29 - IframePage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='WYSIWYG Editor']
+30-01-2021 15:29:31 - IframePage - DEBUG: Clicked on element.
+30-01-2021 15:29:31 - IframePage - INFO: Open the page.
+30-01-2021 15:29:33 - IframePage - DEBUG: Entering the iframe using ID: mce_0_ifr
+30-01-2021 15:29:33 - IframePage - INFO: Enter iFrame.
+30-01-2021 15:29:35 - IframePage - DEBUG: Element found with locator: [xpath] //body
+30-01-2021 15:29:35 - IframePage - DEBUG: Field clear.
+30-01-2021 15:29:35 - IframePage - DEBUG: Element found with locator: [xpath] //body
+30-01-2021 15:29:35 - IframePage - DEBUG: Sent data on element.
+30-01-2021 15:29:35 - IframePage - INFO: Enter text.
+30-01-2021 15:29:37 - IframePage - DEBUG: Switching back to default content.
+30-01-2021 15:29:37 - IframePage - INFO: Exit the iFrame.
+30-01-2021 15:29:39 - IframePage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='Elemental Selenium']
+30-01-2021 15:29:39 - IframePage - DEBUG: Clicked on element.
+30-01-2021 15:29:39 - IframePage - INFO: Click on elemental selenium link to prove that frame changed.
+30-01-2021 15:29:41 - setup - INFO: Close browser.
+30-01-2021 15:29:41 - setup - INFO: Close browser.
+30-01-2021 15:29:41 - setup - INFO: Close browser.
+30-01-2021 15:29:41 - setup - INFO: Close browser.
+30-01-2021 15:29:41 - setup - INFO: Close browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:48 - setup - INFO: Open Firefox browser.
+30-01-2021 15:29:52 - JsalertPage - DEBUG: Element found with locator: [xpath] //a[normalize-space()='JavaScript Alerts']
+30-01-2021 15:29:52 - JsalertPage - DEBUG: Clicked on element.
+30-01-2021 15:29:52 - JsalertPage - INFO: Open the page.
+30-01-2021 15:29:54 - JsalertPage - DEBUG: Element found with locator: [xpath] //button[normalize-space()='Click for JS Alert']
+30-01-2021 15:29:54 - JsalertPage - DEBUG: Clicked on element.
+30-01-2021 15:29:54 - JsalertPage - INFO: Open JS alert.
+30-01-2021 15:29:56 - JsalertPage - DEBUG: JavaScript alert accepted.
+30-01-2021 15:29:56 - JsalertPage - INFO: Click OK on JS alert.
+30-01-2021 15:29:58 - JsalertPage - DEBUG: Element found with locator: [xpath] //button[normalize-space()='Click for JS Confirm']
+30-01-2021 15:29:58 - JsalertPage - DEBUG: Clicked on element.
+30-01-2021 15:29:58 - JsalertPage - INFO: Open JS confirm.
+30-01-2021 15:30:00 - JsalertPage - DEBUG: JavaScript alert dismissed.
+30-01-2021 15:30:00 - JsalertPage - INFO: Click CANCEL on  JS alert.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
+30-01-2021 15:30:02 - setup - INFO: Close browser.
